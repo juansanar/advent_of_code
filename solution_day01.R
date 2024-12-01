@@ -1,4 +1,4 @@
-input <- read.table("https://raw.githubusercontent.com/juansanar/advent_of_code/refs/heads/main/input_01.txt", quote="\"", comment.char="")
+input <- read.table("https://raw.githubusercontent.com/juansanar/advent_of_code/refs/heads/main/input_day01.txt", quote="\"", comment.char="")
 
 challenge_01 <- function(data){
     left <- data[[1]]
